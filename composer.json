@@ -1,0 +1,17 @@
+{
+    "name": "satyandera/feature-exercise-satyandera-pratap-soni",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Satyandera\\FeatureExerciseSatyanderaPratapSoni\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "satyandera",
+            "email": "satyandera11@gmail.com"
+        }
+    ]
+}
